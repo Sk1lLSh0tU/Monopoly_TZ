@@ -194,7 +194,7 @@ static List<Group> GroupListBySortWeight(List<Group> listGroupSort)
         // Цикл просматривает все паллеты по очереди. Начиная с первой.
         while (gCont < listGroupSort[groupCount].palletList.Count)
         {
-            Console.WriteLine($"цикл {gCont}");
+            // Console.WriteLine($"цикл {gCont}"); ------------ ОТЛАДКА
 
             // Цикл просматривает все паллеты по очереди начиная с элемента последующего для сортировки.
             while (groupCountSort < listGroupSort[groupCount].palletList.Count)
