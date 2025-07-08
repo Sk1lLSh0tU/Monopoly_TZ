@@ -1,0 +1,17 @@
+f:\Git\MonopolyTZ\bin\Debug\net9.0\MonopolyTZ.exe
+F:\Git\MonopolyTZ\bin\Debug\net9.0\MonopolyTZ.deps.json
+F:\Git\MonopolyTZ\bin\Debug\net9.0\MonopolyTZ.runtimeconfig.json
+f:\Git\MonopolyTZ\bin\Debug\net9.0\MonopolyTZ.dll
+f:\Git\MonopolyTZ\bin\Debug\net9.0\MonopolyTZ.pdb
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.GeneratedMSBuildEditorConfig.editorconfig
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.AssemblyInfoInputs.cache
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.AssemblyInfo.cs
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.csproj.CoreCompileInputs.cache
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.dll
+f:\Git\MonopolyTZ\obj\Debug\net9.0\refint\MonopolyTZ.dll
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.pdb
+F:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.genruntimeconfig.cache
+F:\Git\MonopolyTZ\obj\Debug\net9.0\ref\MonopolyTZ.dll
+f:\Git\MonopolyTZ\bin\Debug\net9.0\Newtonsoft.Json.dll
+f:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.csproj.AssemblyReference.cache
+F:\Git\MonopolyTZ\obj\Debug\net9.0\MonopolyTZ.csproj.Up2Date

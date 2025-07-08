@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpXPL3aYFzI=",
+  "success": true,
+  "projectFilePath": "F:\\Git\\MonopolyTZ\\MonopolyTZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Димка\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
